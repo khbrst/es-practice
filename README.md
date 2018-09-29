@@ -1,4 +1,4 @@
-# Playground typescript
+# Playground TypeScript
 
 Practice JavaScript and TypeScript Programming Languages
 
