@@ -1,6 +1,11 @@
-# Playground TypeScript
+# Playground ECMAScript
 
-Practice JavaScript and TypeScript Programming Languages
+Practice ECMAScript such as JavaScript, TypeScript and etc.
+
+- JavaScript
+- TypeScript
+- Node.js
+- NPM
 
 # References
 
@@ -38,5 +43,5 @@ Practice JavaScript and TypeScript Programming Languages
 		- [Jasmine](https://jasmine.github.io/)
 		- [SinonJS](https://sinonjs.org/)
 		- [Chai](http://www.chaijs.com/)
-- [npm](https://www.npmjs.com/)
+- [NPM](https://www.npmjs.com/)
 	- [npm Documentation](https://docs.npmjs.com/)
