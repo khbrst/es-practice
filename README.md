@@ -1,4 +1,4 @@
-# Playground ECMAScript
+# ECMAScript Practice
 
 Practice ECMAScript such as JavaScript, TypeScript and etc.
 
