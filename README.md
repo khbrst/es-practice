@@ -1,5 +1,7 @@
 # ECMAScript Practice
 
+[![Build Status](https://travis-ci.com/khbrst/ecmascript_practice.svg?branch=master)](https://travis-ci.com/khbrst/ecmascript_practice)
+
 Practice ECMAScript such as JavaScript, TypeScript and etc.
 
 ## Roadmap
