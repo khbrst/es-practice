@@ -27,13 +27,12 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 
 ### Backend
 
-- [ ] Basics
+- [x] Basics
   - [x] [JavaScript (nodejs) - 생활코딩](https://opentutorials.org/course/2136)
   - [x] [Node.js server without a framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
   - [x] [Introduction to the server side - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
   - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
   - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
-  - [ ] [Node.js Tutorials for Beginners - YouTube](https://www.youtube.com/watch?v=jiSFfpw3Btc&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 - [ ] Package Manager
   - [x] [npm](https://www.npmjs.com/)
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
