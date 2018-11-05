@@ -29,12 +29,17 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 
 - [ ] Basics
   - [x] [JavaScript (nodejs) - 생활코딩](https://opentutorials.org/course/2136)
-  - [ ] [Node.js server without a framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
+  - [x] [Node.js server without a framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
+  - [x] [Introduction to the server side - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+  - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
+  - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
+  - [ ] [Node.js Tutorials for Beginners - YouTube](https://www.youtube.com/watch?v=jiSFfpw3Btc&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 - [ ] Package Manager
   - [x] [npm](https://www.npmjs.com/)
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
   - [ ] [Yarn](https://yarnpkg.com/lang/en/)
 - [ ] Standards and Best Practices
+  - [ ] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
   - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
   - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
@@ -46,6 +51,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] [SinonJS](https://sinonjs.org/)
   - [ ] [Chai](http://www.chaijs.com/)
 - [ ] RDBMS
+  - [ ] [MySQL](https://www.mysql.com/)
+  - [ ] [MariaDB](https://mariadb.com/)
+  - [ ] [PostgreSQL](https://www.postgresql.org/)
 - [ ] Backend framework
   - [ ] [Express](https://expressjs.com/)
     - [ ] [Express web framework (Node.js/JavaScript) - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
