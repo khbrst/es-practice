@@ -33,10 +33,10 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [x] [Introduction to the server side - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
   - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
   - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
-- [ ] Package Manager
+- [x] Package Manager
   - [x] [npm](https://www.npmjs.com/)
+    - [x] [npm Documentation](https://docs.npmjs.com/)
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
-  - [ ] [Yarn](https://yarnpkg.com/lang/en/)
 - [ ] Standards and Best Practices
   - [ ] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
   - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
