@@ -38,7 +38,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [npm Documentation](https://docs.npmjs.com/)
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
 - [ ] Standards and Best Practices
-  - [ ] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
+  - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
   - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
   - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
@@ -118,3 +118,6 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [Node.js](https://nodejs.org)
   - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
+- [Web security]
+  - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
+  - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
