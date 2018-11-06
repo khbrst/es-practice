@@ -39,7 +39,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
 - [ ] Standards and Best Practices
   - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-  - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+  - [ ] [OWASP Top 10-2017 - 한글(pdf)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)([pptx](https://www.owasp.org/images/1/1d/OWASP_Top_10-2017-ko.pptx))
   - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
   - [x] [Do's and Don'ts - TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
