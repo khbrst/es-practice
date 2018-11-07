@@ -39,7 +39,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
 - [ ] Standards and Best Practices
   - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
-  - [ ] [OWASP Top 10-2017 - Korean(pdf)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)([pptx](https://www.owasp.org/images/1/1d/OWASP_Top_10-2017-ko.pptx))
+  - [x] [OWASP Top 10-2017 - Korean(pdf)](https://www.owasp.org/images/b/bd/OWASP_Top_10-2017-ko.pdf)([pptx](https://www.owasp.org/images/1/1d/OWASP_Top_10-2017-ko.pptx))
   - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
   - [x] [Do's and Don'ts - TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
@@ -118,6 +118,8 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [Node.js](https://nodejs.org)
   - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
-- [Web security]
+- Web security
   - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
   - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
+  - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+  - [Retire.js](http://retirejs.github.io/retire.js/)
