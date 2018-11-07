@@ -6,7 +6,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 
 ## Roadmap
 
-- [ ] JavaScript
+### Basics
+
+- [x] JavaScript
   - [x] [생활코딩](https://opentutorials.org/)
     - [x] [JavaScript](https://opentutorials.org/course/743)
     - [x] [웹브라우저 자바스크립트](https://opentutorials.org/course/1375)
@@ -19,8 +21,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [웹소켓 및 HTTP/2 SSE](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
     - [x] [웹어셈블리와의 비교 + 언제 웹어셈블리를 사용하는 게 좋은가](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-%EC%96%B8%EC%A0%9C-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B0%80-cf48a576ca3)
   - [x] [Understanding JavaScript Function Invocation and "this"](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
-  - [ ] [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
-- [ ] TypeScript
+- [x] TypeScript
   - [x] [타입스크립트 코리아 : 기초 세미나 - 인프런](https://www.inflearn.com/course/%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%ec%bd%94%eb%a6%ac%ec%95%84-1705-%ea%b8%b0%ec%b4%88-%ec%84%b8%eb%af%b8%eb%82%98/)
   - [x] [Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)([번역](https://typescript-kr.github.io))
   - [x] [How do the different enum variants work in TypeScript? - Stackoverflow](https://stackoverflow.com/a/28818850/10358228)
