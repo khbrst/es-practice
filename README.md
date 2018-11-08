@@ -44,7 +44,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [x] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [x] [Do's and Don'ts - TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
-    - [ ] [1. Project Structure Practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
+    - [x] [1. Project Structure Practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
     - [ ] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
     - [ ] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
     - [ ] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
@@ -129,3 +129,5 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
   - [Retire.js](http://retirejs.github.io/retire.js/)
+- Project configuration
+  - [rc](https://www.npmjs.com/package/rc), [nconf](https://www.npmjs.com/package/nconf) and [config](https://www.npmjs.com/package/config)
