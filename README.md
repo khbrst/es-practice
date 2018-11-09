@@ -46,7 +46,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
     - [x] [1. Project Structure Practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
     - [x] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
-    - [ ] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
+    - [x] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
     - [ ] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
     - [ ] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
     - [ ] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
@@ -148,6 +148,10 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [log4j](https://www.npmjs.com/package/log4js)
     - [pino](https://www.npmjs.com/package/pino)
   - [Validators](https://www.npmjs.com/search?q=validator)
+  - Code Style
+    - [ESLint](https://eslint.org/)
+    - [prettier](https://www.npmjs.com/package/prettier)
+    - [js-beautify](https://www.npmjs.com/package/js-beautify)
 - Products
   - Error Monitoring
     - [Sentry](https://sentry.io/)
