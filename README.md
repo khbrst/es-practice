@@ -116,12 +116,14 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 
 ## References
 
-- [NAVER D2](https://d2.naver.com/home)
-  - [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/7495331)
-  - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
-  - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
-- [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
-- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- Standards
+  - [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+  - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- Article
+  - [NAVER D2](https://d2.naver.com/home)
+    - [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/7495331)
+    - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
+    - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 - [Node.js](https://nodejs.org)
   - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
 - Web security
@@ -130,4 +132,6 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
   - [Retire.js](http://retirejs.github.io/retire.js/)
 - Project configuration
-  - [rc](https://www.npmjs.com/package/rc), [nconf](https://www.npmjs.com/package/nconf) and [config](https://www.npmjs.com/package/config)
+  - [rc](https://www.npmjs.com/package/rc)
+  - [nconf](https://www.npmjs.com/package/nconf)
+  - [config](https://www.npmjs.com/package/config)
