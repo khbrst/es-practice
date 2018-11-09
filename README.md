@@ -47,7 +47,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [1. Project Structure Practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
     - [x] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
     - [x] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
-    - [ ] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
+    - [x] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
     - [ ] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
     - [ ] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
 - [ ] Testing framework
@@ -152,6 +152,8 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ESLint](https://eslint.org/)
     - [prettier](https://www.npmjs.com/package/prettier)
     - [js-beautify](https://www.npmjs.com/package/js-beautify)
+  - Code Coverage
+    - [Istanbul](https://github.com/gotwarlost/istanbul)
 - Products
   - Error Monitoring
     - [Sentry](https://sentry.io/)
@@ -159,6 +161,18 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [Raygun](https://raygun.com/)
   - API Documentation
     - [Swagger](https://swagger.io/)
+  - API Testing
+    - [Postman](https://www.getpostman.com/)
+  - CI Platform
+    - [Jenkins](https://jenkins.io/)
+    - [Circle CI](https://circleci.com/)
+    - [Travis CI](https://travis-ci.org/)
+  - Web security
+    - [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+  - Static analysis
+    - [Awesome Static Analysis](https://matthias-endler.de/awesome-static-analysis/)
+    - [SonarQube](https://www.sonarqube.org/)
+    - [Code Climate](https://codeclimate.com/)
   - Application Performance Management(APM)
     - Website or API monitoring
       - [Pingdom](https://www.pingdom.com/)
