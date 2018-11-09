@@ -45,7 +45,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [x] [Do's and Don'ts - TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
     - [x] [1. Project Structure Practices](https://github.com/i0natan/nodebestpractices#1-project-structure-practices)
-    - [ ] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
+    - [x] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
     - [ ] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
     - [ ] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
     - [ ] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
@@ -130,8 +130,40 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
   - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
-  - [Retire.js](http://retirejs.github.io/retire.js/)
-- Project configuration
-  - [rc](https://www.npmjs.com/package/rc)
-  - [nconf](https://www.npmjs.com/package/nconf)
-  - [config](https://www.npmjs.com/package/config)
+- Packages
+  - Project configuration
+    - [rc](https://www.npmjs.com/package/rc)
+    - [nconf](https://www.npmjs.com/package/nconf)
+    - [config](https://www.npmjs.com/package/config)
+  - Web security
+    - [Retire.js](http://retirejs.github.io/retire.js/)
+  - Promise
+    - [async](https://www.npmjs.com/package/async)
+    - [bluebird](https://www.npmjs.com/package/bluebird)
+  - Restarter
+    - [forever](https://www.npmjs.com/package/forever)
+    - [pm2](https://www.npmjs.com/package/pm2)
+  - Logger
+    - [winston](https://www.npmjs.com/package/winston)
+    - [log4j](https://www.npmjs.com/package/log4js)
+    - [pino](https://www.npmjs.com/package/pino)
+  - [Validators](https://www.npmjs.com/search?q=validator)
+- Products
+  - Error Monitoring
+    - [Sentry](https://sentry.io/)
+    - [Rollbar](https://rollbar.com/)
+    - [Raygun](https://raygun.com/)
+  - API Documentation
+    - [Swagger](https://swagger.io/)
+  - Application Performance Management(APM)
+    - Website or API monitoring
+      - [Pingdom](https://www.pingdom.com/)
+      - [Uptime Robot](https://uptimerobot.com/)
+      - [New Relic](https://newrelic.com/application-monitoring)
+    - Code instrumentation
+      - [New Relic](https://newrelic.com/application-monitoring)
+      - [App Danymics](https://www.appdynamics.com/)
+    - Operational intelligence dashboard
+      - [Datadog](https://www.datadoghq.com/)
+      - [Splunk](https://www.splunk.com/)
+      - [Zabbix](https://www.zabbix.com/)
