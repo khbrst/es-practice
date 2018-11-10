@@ -1,8 +1,8 @@
-import * as interfaces from "./interfaces";
 import * as classes from "./classes";
+import * as enums from "./enums";
 import * as functions from "./functions";
 import * as generic from "./generic";
-import * as enums from "./enums";
+import * as interfaces from "./interfaces";
 
 interfaces.testInterfaces();
 classes.testClassDefaultParameter();

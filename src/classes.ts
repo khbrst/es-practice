@@ -1,15 +1,15 @@
 export const testClassDefaultParameter = () => {
   class Animal {
-    name: string;
+    public name: string;
     constructor(theName: string) { this.name = theName; }
-    move(distanceInMeters: number = 0) {
+    public move(distanceInMeters: number = 0) {
       console.log(`${this.name} moved ${distanceInMeters}m.`);
     }
   }
 
   class Snake extends Animal {
     constructor(name: string) { super(name); }
-    move(distanceInMeters = 5) {
+    public move(distanceInMeters = 5) {
       console.log("Slithering...");
       super.move(distanceInMeters);
     }
@@ -17,33 +17,33 @@ export const testClassDefaultParameter = () => {
 
   class Horse extends Animal {
     constructor(name: string) { super(name); }
-    move(distanceInMeters = 45) {
+    public move(distanceInMeters = 45) {
       console.log("Galloping...");
       super.move(distanceInMeters);
     }
   }
 
   // Default parameter is different from C++
-  let sam = new Snake("Sammy the Python");
-  let tom: Animal = new Horse("Tommy the Palomino");
+  const sam = new Snake("Sammy the Python");
+  const tom: Animal = new Horse("Tommy the Palomino");
 
   sam.move();
   sam.move(34);
   // In C++, it will prints `...0m.`
   tom.move();
   tom.move(34);
-}
+};
 
 export const testAbstractClass = () => {
   abstract class Department {
     constructor(public name: string) {
     }
 
-    printName(): void {
+    public printName(): void {
       console.log("Department name: " + this.name);
     }
 
-    abstract printMeeting(): void; // must be implemented in derived classes
+    public abstract printMeeting(): void; // must be implemented in derived classes
   }
 
   class AccountingDepartment extends Department {
@@ -51,11 +51,11 @@ export const testAbstractClass = () => {
       super("Accounting and Auditing"); // constructors in derived classes must call super()
     }
 
-    printMeeting(): void {
+    public printMeeting(): void {
       console.log("The Accounting Department meets each Monday at 10am.");
     }
 
-    generateReports(): void {
+    public generateReports(): void {
       console.log("Generating accounting reports...");
     }
   }
@@ -66,13 +66,13 @@ export const testAbstractClass = () => {
   department.printName();
   department.printMeeting();
   // department.generateReports(); // error: method doesn't exist on declared abstract type
-}
+};
 
 export const testConstructorFunctions = () => {
   class Greeter {
-    static standardGreeting = "Hello, there";
-    greeting: string = "";
-    greet() {
+    public static standardGreeting = "Hello, there";
+    public greeting: string = "";
+    public greet() {
       if (this.greeting) {
         return "Hello, " + this.greeting;
       } else {
@@ -85,9 +85,9 @@ export const testConstructorFunctions = () => {
   greeter1 = new Greeter();
   console.log(greeter1.greet());
 
-  let greeterMaker: typeof Greeter = Greeter;
+  const greeterMaker: typeof Greeter = Greeter;
   greeterMaker.standardGreeting = "Hey there!";
 
-  let greeter2: Greeter = new greeterMaker();
+  const greeter2: Greeter = new greeterMaker();
   console.log(greeter2.greet());
-}
+};

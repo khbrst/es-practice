@@ -11,20 +11,22 @@ function createClock(ctor: ClockConstructor, hour: number, minute: number): Cloc
 }
 
 class DigitalClock implements ClockInterface {
+  // tslint:disable-next-line:no-empty
   constructor(h: number, m: number) { }
-  tick(): void {
+  public tick(): void {
     console.log("beep beep");
   }
 }
 
 class AnalogClock implements ClockInterface {
+  // tslint:disable-next-line:no-empty
   constructor(h: number, m: number) { }
-  tick(): void {
+  public tick(): void {
     console.log("tick tock");
   }
 }
 
 export const testInterfaces = () => {
-  let digital = createClock(DigitalClock, 12, 17);
-  let analog = createClock(AnalogClock, 7, 32);
-}
+  const digital = createClock(DigitalClock, 12, 17);
+  const analog = createClock(AnalogClock, 7, 32);
+};

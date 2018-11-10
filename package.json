@@ -4,6 +4,7 @@
   "description": "This is TypeScript tranining project",
   "main": "dist/index.js",
   "scripts": {
+    "prebuild": "tslint src/*",
     "build": "tsc",
     "prestart": "npm run build",
     "start": "node dist/index.js",
@@ -22,5 +23,9 @@
   "homepage": "https://github.com/khbrst/ecmascript_practice#readme",
   "dependencies": {
     "typescript": "^3.0.3"
+  },
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "tslint-config-security": "^1.12.0"
   }
 }

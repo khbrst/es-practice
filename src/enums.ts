@@ -1,26 +1,26 @@
 export const testReverseMappings = () => {
   enum Enum {
-    A
+    A,
   }
-  let a = Enum.A;
-  let nameOfA = Enum[a]; // "A"
-}
+  const a = Enum.A;
+  const nameOfA = Enum[a]; // "A"
+};
 
 export const testConstEnums = () => {
   const enum Directions {
     Up,
     Down,
     Left,
-    Right
+    Right,
   }
 
-  let directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right]
-}
+  const directions = [Directions.Up, Directions.Down, Directions.Left, Directions.Right];
+};
 
 declare enum AmbientEnum {
   A = 1,
   B,
-  C = 2
+  C = 2,
 }
 
 export const testAmbientEnums = () => {
@@ -28,4 +28,4 @@ export const testAmbientEnums = () => {
   // console.log(AmbientEnum.A);
   // console.log(AmbientEnum.B);
   // console.log(AmbientEnum.C);
-}
+};
