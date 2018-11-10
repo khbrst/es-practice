@@ -48,8 +48,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [2. Error Handling Practices](https://github.com/i0natan/nodebestpractices#2-error-handling-practices)
     - [x] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
     - [x] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
-    - [ ] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
+    - [x] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
     - [ ] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
+  - [ ] [The Twelve-Factor App](https://12factor.net/)
 - [ ] Testing framework
   - [ ] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
@@ -95,8 +96,6 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] Sphinx
 - [ ] Docker
 - [ ] Web Server
-  - [ ] Apache
-  - [ ] Nginx
 - [ ] Web Sockets
 - [ ] GraphQL and Graph Databases
 - [ ] Profiling
@@ -155,10 +154,13 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - Code Coverage
     - [Istanbul](https://github.com/gotwarlost/istanbul)
 - Products
-  - Error Monitoring
-    - [Sentry](https://sentry.io/)
-    - [Rollbar](https://rollbar.com/)
-    - [Raygun](https://raygun.com/)
+  - Web Server and Web Application Server
+    - [Apache HTTPd](https://httpd.apache.org/)
+    - [Apache Tomcat](http://tomcat.apache.org/)
+    - [Nginx](https://nginx.org/)
+  - Load Balancer & Reverse Proxy
+    - [Nginx](https://nginx.org/)
+    - [HAProxy](http://www.haproxy.org/)
   - API Documentation
     - [Swagger](https://swagger.io/)
   - API Testing
@@ -168,11 +170,21 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [Circle CI](https://circleci.com/)
     - [Travis CI](https://travis-ci.org/)
   - Web security
+    - [npm audit](https://docs.npmjs.com/cli/audit)
+    - [snyk](https://snyk.io/)
     - [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
   - Static analysis
     - [Awesome Static Analysis](https://matthias-endler.de/awesome-static-analysis/)
     - [SonarQube](https://www.sonarqube.org/)
     - [Code Climate](https://codeclimate.com/)
+  - Monitoring
+    - [AWS CloudWatch](https://aws.amazon.com/ko/cloudwatch/)
+    - [Google Stackdriver](https://cloud.google.com/stackdriver/)
+    - [Elastic stack](https://www.elastic.co/kr/products)
+    - Error
+      - [Sentry](https://sentry.io/)
+      - [Rollbar](https://rollbar.com/)
+      - [Raygun](https://raygun.com/)
   - Application Performance Management(APM)
     - Website or API monitoring
       - [Pingdom](https://www.pingdom.com/)
