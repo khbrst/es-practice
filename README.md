@@ -50,6 +50,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
     - [x] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
     - [ ] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
+      - [ ] [Common Node.js security best practices](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/commonsecuritybestpractices.md)
+      - [ ] [Using security-related headers to secure your application against common attacks](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/secureheaders.md)
+      - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
   - [ ] [The Twelve-Factor App](https://12factor.net/)
 - [ ] Testing framework
   - [ ] [Mocha](https://mochajs.org/)
@@ -129,6 +132,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
   - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+  - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
 - Packages
   - Project configuration
     - [rc](https://www.npmjs.com/package/rc)
@@ -136,6 +140,18 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [config](https://www.npmjs.com/package/config)
   - Web security
     - [Retire.js](http://retirejs.github.io/retire.js/)
+    - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
+    - [bcrypt](https://www.npmjs.com/package/bcrypt)
+    - [helmet](https://www.npmjs.com/package/helmet)
+    - [escape-html](https://github.com/component/escape-html)
+    - [node-esapi](https://github.com/ESAPI/node-esapi)
+    - ORM/ODM
+      - [TypeORM](https://github.com/typeorm/typeorm)
+      - [sequelize](https://github.com/sequelize/sequelize)
+      - [mongoose](https://github.com/Automattic/mongoose)
+      - [Knex](https://github.com/tgriesser/knex)
+      - [Objection.js](https://github.com/Vincit/objection.js)
+      - [waterline](https://github.com/balderdashy/waterline)
   - Promise
     - [async](https://www.npmjs.com/package/async)
     - [bluebird](https://www.npmjs.com/package/bluebird)
@@ -170,9 +186,11 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [Circle CI](https://circleci.com/)
     - [Travis CI](https://travis-ci.org/)
   - Web security
+    - [git-secrets](https://github.com/awslabs/git-secrets)
     - [npm audit](https://docs.npmjs.com/cli/audit)
     - [snyk](https://snyk.io/)
     - [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+    - [Greenkeeper](https://greenkeeper.io/)
   - Static analysis
     - [Awesome Static Analysis](https://matthias-endler.de/awesome-static-analysis/)
     - [SonarQube](https://www.sonarqube.org/)
