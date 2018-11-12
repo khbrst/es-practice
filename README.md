@@ -49,7 +49,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [3. Code Style Practices](https://github.com/i0natan/nodebestpractices#3-code-style-practices)
     - [x] [4. Test And Overall Quality Practices](https://github.com/i0natan/nodebestpractices#4-testing-and-overall-quality-practices)
     - [x] [5. Going To Production Practices](https://github.com/i0natan/nodebestpractices#5-going-to-production-practices)
-    - [ ] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
+    - [x] [6. Security Best Practices](https://github.com/i0natan/nodebestpractices#6-security-best-practices)
       - [ ] [Common Node.js security best practices](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/commonsecuritybestpractices.md)
       - [ ] [Using security-related headers to secure your application against common attacks](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/secureheaders.md)
       - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
@@ -141,17 +141,21 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - Web security
     - [Retire.js](http://retirejs.github.io/retire.js/)
     - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
+    - [express-brute](https://www.npmjs.com/package/express-brute)
     - [bcrypt](https://www.npmjs.com/package/bcrypt)
     - [helmet](https://www.npmjs.com/package/helmet)
     - [escape-html](https://github.com/component/escape-html)
     - [node-esapi](https://github.com/ESAPI/node-esapi)
-    - ORM/ODM
-      - [TypeORM](https://github.com/typeorm/typeorm)
-      - [sequelize](https://github.com/sequelize/sequelize)
-      - [mongoose](https://github.com/Automattic/mongoose)
-      - [Knex](https://github.com/tgriesser/knex)
-      - [Objection.js](https://github.com/Vincit/objection.js)
-      - [waterline](https://github.com/balderdashy/waterline)
+  - Authentication / Authorization
+    - [passport](http://www.passportjs.org/)
+    - [express-jwt](https://github.com/auth0/express-jwt)
+  - ORM/ODM
+    - [TypeORM](https://github.com/typeorm/typeorm)
+    - [sequelize](https://github.com/sequelize/sequelize)
+    - [mongoose](https://github.com/Automattic/mongoose)
+    - [Knex](https://github.com/tgriesser/knex)
+    - [Objection.js](https://github.com/Vincit/objection.js)
+    - [waterline](https://github.com/balderdashy/waterline)
   - Promise
     - [async](https://www.npmjs.com/package/async)
     - [bluebird](https://www.npmjs.com/package/bluebird)
