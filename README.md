@@ -135,6 +135,8 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
   - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
 - Packages
+  - TypeScript
+    - [ts-node](https://github.com/TypeStrong/ts-node)
   - Project configuration
     - [rc](https://www.npmjs.com/package/rc)
     - [nconf](https://www.npmjs.com/package/nconf)
