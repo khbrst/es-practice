@@ -53,7 +53,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [ ] [Common Node.js security best practices](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/commonsecuritybestpractices.md)
       - [ ] [Using security-related headers to secure your application against common attacks](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/secureheaders.md)
       - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
-  - [ ] [The Twelve-Factor App](https://12factor.net/)
+  - [x] [The Twelve-Factor App](https://12factor.net/)
 - [ ] Testing framework
   - [ ] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
@@ -126,6 +126,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/7495331)
     - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
     - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
+  - [Crash-only software - Wikipedia](https://en.wikipedia.org/wiki/Crash-only_software)
 - [Node.js](https://nodejs.org)
   - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
 - Web security
@@ -174,6 +175,13 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - Code Coverage
     - [Istanbul](https://github.com/gotwarlost/istanbul)
 - Products
+  - Development Environment
+    - Declarative provisioning
+      - [Chef](https://www.chef.io/chef/)
+      - [Puppet](https://puppet.com/)
+    - Light-weight virtual environment
+      - [Docker](https://www.docker.com/)
+      - [Vagrant](https://www.vagrantup.com/)
   - Web Server and Web Application Server
     - [Apache HTTPd](https://httpd.apache.org/)
     - [Apache Tomcat](http://tomcat.apache.org/)
