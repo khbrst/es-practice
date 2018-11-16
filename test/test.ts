@@ -1,5 +1,4 @@
 import { should } from "chai";
-import "mocha";
 
 describe('Array', () => {
   describe('#indexOf()', () => {
