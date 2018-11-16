@@ -55,7 +55,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
   - [x] [The Twelve-Factor App](https://12factor.net/)
 - [ ] Testing framework
-  - [ ] [Mocha](https://mochajs.org/)
+  - [x] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
   - [ ] [SinonJS](https://sinonjs.org/)
   - [ ] Assertion
