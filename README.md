@@ -60,7 +60,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] [SinonJS](https://sinonjs.org/)
   - [ ] Assertion
     - [x] [Node.js bulit-in assert](https://nodejs.org/api/assert.html)
-    - [ ] [chai](http://www.chaijs.com/)
+    - [x] [chai](http://www.chaijs.com/)
     - [ ] [should.js](https://github.com/shouldjs/should.js)
     - [ ] [expect.js](https://github.com/Automattic/expect.js)
     - [ ] [better-assert](https://github.com/tj/better-assert)
