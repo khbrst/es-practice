@@ -59,10 +59,10 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] [Jasmine](https://jasmine.github.io/)
   - [ ] [SinonJS](https://sinonjs.org/)
   - [ ] Assertion
-    - [ ] [Node.js bulit-in assert](https://nodejs.org/api/assert.html)
+    - [x] [Node.js bulit-in assert](https://nodejs.org/api/assert.html)
+    - [ ] [chai](http://www.chaijs.com/)
     - [ ] [should.js](https://github.com/shouldjs/should.js)
     - [ ] [expect.js](https://github.com/Automattic/expect.js)
-    - [ ] [chai](http://www.chaijs.com/)
     - [ ] [better-assert](https://github.com/tj/better-assert)
     - [ ] [unexpected](http://unexpected.js.org/)
 - [ ] RDBMS

@@ -71,10 +71,13 @@ describe('Node.js.assert', () => {
         // - Date {}
       });
 
-      assert.throws(() => {
+      try {
         assert.deepStrictEqual(NaN, NaN);
         // OK, because of the SameValue comparison
-      });
+        // => Nope, result of it is different by Node.js version
+      } catch (err) {
+        assert(err instanceof assert.AssertionError);
+      }
 
       assert.throws(() => {
         // Different unwrapped numbers:
