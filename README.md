@@ -54,6 +54,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [ ] [Using security-related headers to secure your application against common attacks](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/secureheaders.md)
       - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
   - [x] [The Twelve-Factor App](https://12factor.net/)
+    - [ ] [Node.js Cluster](https://nodejs.org/api/cluster.html)
 - [ ] Testing framework
   - [x] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
