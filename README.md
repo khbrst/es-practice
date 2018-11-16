@@ -68,8 +68,12 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [unexpected](http://unexpected.js.org/)
 - [ ] RDBMS
   - [ ] [MySQL](https://www.mysql.com/)
+    - [x] [MySQL - 생활코딩](https://opentutorials.org/course/195)
+    - [ ] [Official 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
   - [ ] [MariaDB](https://mariadb.com/)
+    - [ ] [Official Beginner MariaDB Articles](https://mariadb.com/kb/en/library/beginner-mariadb-articles/)
   - [ ] [PostgreSQL](https://www.postgresql.org/)
+    - [ ] [Official Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] Backend framework
   - [ ] [Express](https://expressjs.com/)
     - [ ] [Express/Node introduction - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
