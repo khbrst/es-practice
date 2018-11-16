@@ -97,25 +97,33 @@ describe('Node.js.assert', () => {
       assert.deepStrictEqual(-0, -0);
       // OK
 
-      // Different zeros using the SameValue Comparison:
-      assert.deepStrictEqual(0, -0);
-      // AssertionError: Expected inputs to be strictly deep-equal:
-      // + actual - expected
-      //
-      // + 0
-      // - -0
+      try {
+        // Different zeros using the SameValue Comparison:
+        assert.deepStrictEqual(0, -0);
+        // AssertionError: Expected inputs to be strictly deep-equal:
+        // + actual - expected
+        //
+        // + 0
+        // - -0
+      } catch (err) {
+        assert(err instanceof assert.AssertionError);
+      }
 
       const symbol1 = Symbol();
       const symbol2 = Symbol();
       assert.deepStrictEqual({ [symbol1]: 1 }, { [symbol1]: 1 });
       // OK, because it is the same symbol on both objects.
 
-      assert.deepStrictEqual({ [symbol1]: 1 }, { [symbol2]: 1 });
-      // AssertionError [ERR_ASSERTION]: Inputs identical but not reference equal:
-      //
-      // {
-      //   [Symbol()]: 1
-      // }
+      try {
+        assert.deepStrictEqual({ [symbol1]: 1 }, { [symbol2]: 1 });
+        // AssertionError [ERR_ASSERTION]: Inputs identical but not reference equal:
+        //
+        // {
+        //   [Symbol()]: 1
+        // }
+      } catch (err) {
+        assert(err instanceof assert.AssertionError);
+      }
 
       const weakMap1 = new WeakMap();
       const weakMap2 = new WeakMap([[{}, {}]]);
