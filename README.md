@@ -67,9 +67,18 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [better-assert](https://github.com/tj/better-assert)
     - [ ] [unexpected](http://unexpected.js.org/)
 - [ ] RDBMS
+  - [ ] Basic
+    - [x] [Database Structure and Design Tutorial by Lucidchart](https://www.lucidchart.com/pages/database-diagram/database-design)([번역](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86))
+    - [ ] [Database design](https://en.wikipedia.org/wiki/Database_design)
+    - [ ] [Entity-relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+    - [ ] [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
+    - [ ] [Conceptual schema](https://en.wikipedia.org/wiki/Conceptual_schema)
+    - [ ] [Physical data model](https://en.wikipedia.org/wiki/Physical_data_model)
+    - [ ] [Join (SQL)](https://en.wikipedia.org/wiki/Join_(SQL))
   - [ ] [MySQL](https://www.mysql.com/)
     - [x] [MySQL - 생활코딩](https://opentutorials.org/course/195)
-    - [ ] [Official 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+    - [ ] [Official MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+      - [ ] [Official MySQL 8.0 Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
   - [ ] [MariaDB](https://mariadb.com/)
     - [ ] [Official Beginner MariaDB Articles](https://mariadb.com/kb/en/library/beginner-mariadb-articles/)
   - [ ] [PostgreSQL](https://www.postgresql.org/)
@@ -116,7 +125,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
 - [ ] Static Analysis
 - [ ] DDD
 - [ ] SOAP
-- [ ] serverless
+- [ ] [serverless](https://serverless.com/)
 - [ ] Micro Services
   - [ ] [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
@@ -195,6 +204,10 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - Light-weight virtual environment
       - [Docker](https://www.docker.com/)
       - [Vagrant](https://www.vagrantup.com/)
+    - Cloud Services
+      - [Amazone Web Services](https://aws.amazon.com/)
+      - [Google Cloud Platform Console](https://console.cloud.google.com/)
+      - [Microsoft Azure](https://azure.microsoft.com/)
   - Web Server and Web Application Server
     - [Apache HTTPd](https://httpd.apache.org/)
     - [Apache Tomcat](http://tomcat.apache.org/)
