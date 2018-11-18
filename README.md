@@ -72,11 +72,11 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [Database design - Wikipedia](https://en.wikipedia.org/wiki/Database_design)
     - [x] [Database normalization - Wikipedia](https://en.wikipedia.org/wiki/Database_normalization)
     - [ ] [Database model - Wikipedia](https://en.wikipedia.org/wiki/Database_model)
-    - [ ] [Entity-relationship model - Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
-    - [ ] [Conceptual data model - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_schema)
+    - [x] [Entity-relationship model - Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+    - [x] [Conceptual data model - Wikipedia](https://en.wikipedia.org/wiki/Conceptual_schema)
     - [x] [Logical data model - Wikipedia](https://en.wikipedia.org/wiki/Logical_data_model)
-    - [ ] [Physical data model - Wikipedia](https://en.wikipedia.org/wiki/Physical_data_model)
-    - [ ] [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))
+    - [x] [Physical data model - Wikipedia](https://en.wikipedia.org/wiki/Physical_data_model)
+    - [x] [Join (SQL) - Wikipedia](https://en.wikipedia.org/wiki/Join_(SQL))
   - [ ] [MySQL](https://www.mysql.com/)
     - [x] [MySQL - 생활코딩](https://opentutorials.org/course/195)
     - [ ] [Official MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
@@ -149,6 +149,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
     - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
   - [Crash-only software - Wikipedia](https://en.wikipedia.org/wiki/Crash-only_software)
+  - Database
+    - [DB-Engines Ranking](https://db-engines.com/en/ranking) and [history](https://db-engines.com/en/ranking_trend)([Method of calculating the scores](https://db-engines.com/en/ranking_definition))
+    - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
 - [Node.js](https://nodejs.org)
   - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
 - Web security
@@ -156,6 +159,10 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
   - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
   - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+- Testing Tool
+  - Database
+    - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
+    - [SQL Fiddle](http://sqlfiddle.com/)
 - Packages
   - TypeScript
     - [ts-node](https://github.com/TypeStrong/ts-node)
