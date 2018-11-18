@@ -80,7 +80,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] [MySQL](https://www.mysql.com/)
     - [x] [MySQL - 생활코딩](https://opentutorials.org/course/195)
     - [ ] [Official MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
-      - [ ] [Official MySQL 8.0 Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
+      - [x] [Official MySQL 8.0 Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
   - [ ] [MariaDB](https://mariadb.com/)
     - [ ] [Official Beginner MariaDB Articles](https://mariadb.com/kb/en/library/beginner-mariadb-articles/)
   - [ ] [PostgreSQL](https://www.postgresql.org/)
@@ -98,6 +98,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [Express Tutorial Part 7: Deploying to production - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
     - [ ] [Express Guide](https://expressjs.com/en/guide/routing.html)
     - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
+  - [ ] [Sails.js](https://sailsjs.com/)
   - [ ] [Meteor](https://www.meteor.com/)
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
@@ -170,6 +171,8 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [rc](https://www.npmjs.com/package/rc)
     - [nconf](https://www.npmjs.com/package/nconf)
     - [config](https://www.npmjs.com/package/config)
+  - Web frameworks
+    - [Node.js frameworks](http://nodeframework.com/)
   - Web security
     - [Retire.js](http://retirejs.github.io/retire.js/)
     - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
@@ -181,13 +184,17 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - Authentication / Authorization
     - [passport](http://www.passportjs.org/)
     - [express-jwt](https://github.com/auth0/express-jwt)
-  - ORM/ODM
-    - [TypeORM](https://github.com/typeorm/typeorm)
-    - [sequelize](https://github.com/sequelize/sequelize)
-    - [mongoose](https://github.com/Automattic/mongoose)
-    - [Knex](https://github.com/tgriesser/knex)
-    - [Objection.js](https://github.com/Vincit/objection.js)
-    - [waterline](https://github.com/balderdashy/waterline)
+  - Database
+    - SQL query builder
+      - [Knex](https://github.com/tgriesser/knex)
+    - ORM
+      - [TypeORM](https://github.com/typeorm/typeorm)
+      - [sequelize](https://github.com/sequelize/sequelize)
+      - [Objection.js](https://github.com/Vincit/objection.js)
+    - ODM
+      - [mongoose](https://github.com/Automattic/mongoose)
+    - New adapter-based ORM
+      - [waterline](https://github.com/balderdashy/waterline)
   - Promise
     - [async](https://www.npmjs.com/package/async)
     - [bluebird](https://www.npmjs.com/package/bluebird)
