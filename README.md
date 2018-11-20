@@ -82,7 +82,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [Official MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
       - [x] [Official MySQL 8.0 Tutorial](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html)
   - [ ] [MariaDB](https://mariadb.com/)
-    - [ ] [Official Beginner MariaDB Articles](https://mariadb.com/kb/en/library/beginner-mariadb-articles/)
+    - [x] [Official Beginner MariaDB Articles](https://mariadb.com/kb/en/library/beginner-mariadb-articles/)
   - [ ] [PostgreSQL](https://www.postgresql.org/)
     - [ ] [Official Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] Backend framework
