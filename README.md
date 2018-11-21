@@ -191,10 +191,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [TypeORM](https://github.com/typeorm/typeorm)
       - [sequelize](https://github.com/sequelize/sequelize)
       - [Objection.js](https://github.com/Vincit/objection.js)
+      - [waterline](https://github.com/balderdashy/waterline)
     - ODM
       - [mongoose](https://github.com/Automattic/mongoose)
-    - New adapter-based ORM
-      - [waterline](https://github.com/balderdashy/waterline)
   - Promise
     - [async](https://www.npmjs.com/package/async)
     - [bluebird](https://www.npmjs.com/package/bluebird)
