@@ -34,6 +34,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [x] [Introduction to the server side - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
   - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
   - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
+  - [ ] [Node.js Guides](https://nodejs.org/en/docs/guides/)
 - [x] Package Manager
   - [x] [npm](https://www.npmjs.com/)
     - [x] [npm Documentation](https://docs.npmjs.com/)
