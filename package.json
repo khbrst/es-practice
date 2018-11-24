@@ -8,7 +8,8 @@
     "prebuild": "npm run prebuildlint",
     "build": "tsc",
     "startnodejs": "node src/nodejs/app.js",
-    "start": "npm run startnodejs",
+    "starttsnode": "ts-node src/ts-node/app.ts",
+    "start": "npm run starttsnode",
     "pretestlint": "tslint test/**/*.ts",
     "pretest": "npm run pretestlint && npm run build",
     "test": "mocha --require ts-node/register test/**/*.ts"
