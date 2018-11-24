@@ -34,7 +34,6 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [x] [Introduction to the server side - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
   - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
   - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
-  - [ ] [Node.js Guides](https://nodejs.org/en/docs/guides/)
 - [x] Package Manager
   - [x] [npm](https://www.npmjs.com/)
     - [x] [npm Documentation](https://docs.npmjs.com/)
@@ -55,13 +54,21 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [ ] [Using security-related headers to secure your application against common attacks](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/secureheaders.md)
       - [ ] [Constantly and automatically inspect for vulnerable dependencies](https://github.com/i0natan/nodebestpractices/blob/master/sections/security/dependencysecurity.md)
   - [x] [The Twelve-Factor App](https://12factor.net/)
-    - [ ] [Node.js Cluster](https://nodejs.org/api/cluster.html)
+  - [ ] [Node.js Guides](https://nodejs.org/en/docs/guides/)
+  - [ ] [Node.js API Documentation](https://nodejs.org/api/documentation.html)
+    - [x] [Assert](https://nodejs.org/api/assert.html)
+    - [ ] [C++ Addons](https://nodejs.org/api/addons.html)
+    - [ ] [C/C++ Addons - N-API](https://nodejs.org/api/n-api.html)
+    - [ ] [Cluster](https://nodejs.org/api/cluster.html)
+    - [ ] [Events](https://nodejs.org/api/events.html)
+    - [ ] [File System](https://nodejs.org/api/fs.html)
+    - [ ] [Stream](https://nodejs.org/api/stream.html)
+    - [ ] [ZLIB](https://nodejs.org/api/zlib.html)
 - [ ] Testing framework
   - [x] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
   - [ ] [SinonJS](https://sinonjs.org/)
   - [ ] Assertion
-    - [x] [Node.js bulit-in assert](https://nodejs.org/api/assert.html)
     - [x] [chai](http://www.chaijs.com/)
     - [ ] [should.js](https://github.com/shouldjs/should.js)
     - [ ] [expect.js](https://github.com/Automattic/expect.js)
@@ -117,13 +124,15 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - [ ] JWT
   - [ ] OpenID
 - [ ] Message Brokers
-  - [ ] RabbitMQ
-  - [ ] Kafka
+  - [ ] [RabbitMQ](https://www.rabbitmq.com/)
+  - [ ] [Kafka](https://kafka.apache.org/)
 - [ ] Search Engine
-  - [ ] ElasticSearch
-  - [ ] Solr
-  - [ ] Sphinx
-- [ ] Docker
+  - [ ] [Elastic](https://www.elastic.co/)
+  - [ ] [Solr](http://lucene.apache.org/solr/)
+  - [ ] [Sphinx](http://sphinxsearch.com/)
+- [ ] Container
+  - [ ] [Docker](https://www.docker.com/)
+  - [ ] [Kubernetes](https://kubernetes.io/)
 - [ ] Web Server
 - [ ] Web Sockets
 - [ ] GraphQL and Graph Databases
@@ -156,18 +165,24 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
   - Database
     - [DB-Engines Ranking](https://db-engines.com/en/ranking) and [history](https://db-engines.com/en/ranking_trend)([Method of calculating the scores](https://db-engines.com/en/ranking_definition))
     - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
-- [Node.js](https://nodejs.org)
-  - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
-- Web security
-  - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
-  - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
-  - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
-  - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+  - Web security
+    - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
+    - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
+    - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+    - [Fork bomb - Wikipedia](https://en.wikipedia.org/wiki/Fork_bomb)
+    - [Path Traversal - OWASP](https://www.owasp.org/index.php/Path_Traversal)
+    - SQL Injection
+      - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+    - Regular Expression
+      - [Regular expression Denial of Service - ReDoS](https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS)
+      - [Regular Expression Library](http://www.regexlib.com/)
 - Testing Tool
   - Database
     - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
     - [SQL Fiddle](http://sqlfiddle.com/)
 - Packages
+  - Rust
+    - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon))
   - TypeScript
     - [ts-node](https://github.com/TypeStrong/ts-node)
   - Project configuration
@@ -184,6 +199,14 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [helmet](https://www.npmjs.com/package/helmet)
     - [escape-html](https://github.com/component/escape-html)
     - [node-esapi](https://github.com/ESAPI/node-esapi)
+    - Regular Expression
+      - [safe-regex](https://github.com/substack/safe-regex)
+      - [node-re2](https://github.com/uhop/node-re2)
+      - [RE2](https://github.com/google/re2)
+      - [ip-regex](https://www.npmjs.com/package/ip-regex)
+    - JSON
+      - [JSONStream](https://www.npmjs.com/package/JSONStream)
+      - [Big-Friendly JSON](https://gitlab.com/philbooth/bfj)
   - Authentication / Authorization
     - [passport](http://www.passportjs.org/)
     - [express-jwt](https://github.com/auth0/express-jwt)
