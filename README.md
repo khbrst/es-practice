@@ -62,7 +62,6 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
     - [x] [Working with Different Filesystems](https://nodejs.org/en/docs/guides/working-with-different-filesystems/)
     - [ ] [Backpressuring in Streams](https://nodejs.org/en/docs/guides/backpressuring-in-streams/)
-    - [ ] [Domain Module Postmortem](https://nodejs.org/en/docs/guides/domain-postmortem/)
     - [ ] [How to publish N-API package](https://nodejs.org/en/docs/guides/publishing-napi-modules/)
     - [ ] [ABI Stability](https://nodejs.org/en/docs/guides/abi-stability/)
   - [ ] [Node.js API Documentation](https://nodejs.org/api/documentation.html)
