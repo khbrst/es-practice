@@ -1,6 +1,6 @@
 import { assert } from "chai";
 
-describe('Node.js Buffer', () => {
+describe('Node.js.Buffer', () => {
   describe('#Introduce', () => {
     it('create buffers', () => {
       // Creates a zero-filled Buffer of length 10.
