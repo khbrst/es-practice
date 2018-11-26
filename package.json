@@ -12,7 +12,7 @@
     "prestart": "npm run build",
     "start": "npm run starttsnode",
     "pretestlint": "tslint test/**/*.ts",
-    "pretest": "npm run pretestlint && npm run build",
+    "pretest": "npm run pretestlint",
     "test": "mocha --require ts-node/register test/**/*.ts"
   },
   "repository": {
