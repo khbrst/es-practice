@@ -1,5 +1,5 @@
 import { assert } from "chai";
-import { fork, spawn } from 'child_process';
+import { spawn } from 'child_process';
 
 describe('Node.js.ChildProcesses', () => {
   describe('#Introduce', () => {

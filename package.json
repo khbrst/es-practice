@@ -8,7 +8,7 @@
     "prebuild": "npm run prebuildlint",
     "build": "tsc",
     "startnodejs": "node src/nodejs/app.js",
-    "starttsnode": "ts-node src/ts-node/app.ts",
+    "starttsnode": "ts-node src/ts-node/helloworld.ts",
     "prestart": "npm run build",
     "start": "npm run starttsnode",
     "pretestlint": "tslint test/**/*.ts",
