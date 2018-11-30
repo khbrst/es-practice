@@ -11,9 +11,9 @@
     "starttsnode": "ts-node src/ts-node/helloworld.ts",
     "prestart": "npm run build",
     "start": "npm run starttsnode",
-    "pretestlint": "tslint test/**/*.ts",
+    "pretestlint": "eslint test/**/*.js && tslint test/**/*.ts",
     "pretest": "npm run pretestlint",
-    "test": "mocha --require ts-node/register test/**/*.ts"
+    "test": "mocha test/**/*.js && mocha --require ts-node/register test/**/*.ts"
   },
   "repository": {
     "type": "git",
