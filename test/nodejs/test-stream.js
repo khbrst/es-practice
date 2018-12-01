@@ -25,7 +25,7 @@ describe('Node.js.Stream', () => {
     });
 
     it('should return null when \'readable\' event emit by end of the stream has been reached', () => {
-      const rr = fs.createReadStream('test/nodejs/empty.txt');
+      const rr = fs.createReadStream(__dirname + '/empty.txt');
       rr.on('readable', () => {
         assert.isNull(rr.read());
       });
