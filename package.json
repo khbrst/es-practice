@@ -2,7 +2,7 @@
   "name": "ecmascript_practice",
   "version": "1.0.0",
   "description": "This is TypeScript tranining project",
-  "main": "dist/index.js",
+  "main": "dist/src/typescript/index.js",
   "scripts": {
     "prebuildlint": "eslint src/**/*.js && tslint src/**/*.ts",
     "prebuild": "npm run prebuildlint",
