@@ -59,7 +59,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [x] [The Node.js Event Loop, Timers, and `process.nextTick()`](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
     - [x] [Don't Block the Event Loop (or the Worker Pool)](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
     - [x] [Timers in Node.js and beyond](https://nodejs.org/en/docs/guides/timers-in-node/)
-    - [ ] [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+    - [x] [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
     - [x] [Working with Different Filesystems](https://nodejs.org/en/docs/guides/working-with-different-filesystems/)
     - [ ] [Backpressuring in Streams](https://nodejs.org/en/docs/guides/backpressuring-in-streams/)
     - [ ] [How to publish N-API package](https://nodejs.org/en/docs/guides/publishing-napi-modules/)
