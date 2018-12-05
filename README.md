@@ -183,6 +183,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
     - [SQL Fiddle](http://sqlfiddle.com/)
 - Packages
+  - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
   - Rust
     - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon))
   - TypeScript
