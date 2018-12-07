@@ -4,15 +4,14 @@
   "description": "This is TypeScript tranining project",
   "main": "dist/src/typescript/index.js",
   "scripts": {
-    "prebuildlint": "eslint src/**/*.js && tslint src/**/*.ts",
-    "prebuild": "npm run prebuildlint",
+    "eslint": "eslint src/**/*.js && eslint test/**/*.js",
+    "tslint": "tslint src/**/*.ts && tslint test/**/*.ts",
+    "lint": "npm run eslint && npm run tslint",
+    "prebuild": "npm run lint",
     "build": "tsc",
-    "startnodejs": "node src/nodejs/app.js",
-    "starttsnode": "ts-node src/ts-node/helloworld.ts",
     "prestart": "npm run build",
     "start": "npm run starttsnode",
-    "pretestlint": "eslint test/**/*.js && tslint test/**/*.ts",
-    "pretest": "npm run pretestlint",
+    "pretest": "npm run lint",
     "test": "mocha test/**/*.js && mocha --require ts-node/register test/**/*.ts"
   },
   "repository": {
