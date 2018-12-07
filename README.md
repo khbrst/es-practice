@@ -99,7 +99,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [x] [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] Backend framework
   - [ ] [Express](https://expressjs.com/)
-    - [ ] [Express/Node introduction - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+    - [x] [Express/Node introduction - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
     - [ ] [Setting up a Node development environment - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
     - [ ] [Express Tutorial: The Local Library website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
     - [ ] [Express Tutorial Part 2: Creating a skeleton website - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website)
@@ -164,6 +164,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
     - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
   - [Crash-only software - Wikipedia](https://en.wikipedia.org/wiki/Crash-only_software)
+  - [The Node.js Way - Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
   - Database
     - [DB-Engines Ranking](https://db-engines.com/en/ranking) and [history](https://db-engines.com/en/ranking_trend)([Method of calculating the scores](https://db-engines.com/en/ranking_definition))
     - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
