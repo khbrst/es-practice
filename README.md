@@ -99,7 +99,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [x] [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] Backend framework
   - [ ] [Express](https://expressjs.com/)
-    - [ ] [Express Node.js - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction): [`LocalLibrary` practiced here](https://github.com/khbrst/express-locallibrary-tutorial)
+    - [ ] [Express web framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs): [`LocalLibrary` practiced here](https://github.com/khbrst/express-locallibrary-tutorial)
     - [ ] [Express Guide](https://expressjs.com/en/guide/routing.html)
     - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
   - [ ] [Sails.js](https://sailsjs.com/)
