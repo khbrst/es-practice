@@ -9,8 +9,6 @@
     "lint": "npm run eslint && npm run tslint",
     "prebuild": "npm run lint",
     "build": "tsc",
-    "prestart": "npm run build",
-    "start": "npm run starttsnode",
     "pretest": "npm run lint",
     "test": "mocha test/**/*.js && mocha --require ts-node/register test/**/*.ts"
   },
