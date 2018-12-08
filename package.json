@@ -1,5 +1,5 @@
 {
-  "name": "ecmascript_practice",
+  "name": "es-practice",
   "version": "1.0.0",
   "description": "This is TypeScript tranining project",
   "main": "dist/src/typescript/index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khbrst/ecmascript_practice.git"
+    "url": "git+https://github.com/khbrst/es-practice.git"
   },
   "keywords": [],
   "author": "Yoon Youngho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khbrst/ecmascript_practice/issues"
+    "url": "https://github.com/khbrst/es-practice/issues"
   },
-  "homepage": "https://github.com/khbrst/ecmascript_practice#readme",
+  "homepage": "https://github.com/khbrst/es-practice#readme",
   "dependencies": {
     "eslint": "^5.9.0",
     "eslint-plugin-node": "^8.0.0",
