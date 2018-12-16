@@ -246,7 +246,9 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [Google Cloud Platform Console](https://console.cloud.google.com/)
       - [Microsoft Azure](https://azure.microsoft.com/)
       - Database
-        - [MongoDB Atlas](https://cloud.mongodb.com)
+        - MongoDB
+          - [Atlas](https://cloud.mongodb.com)
+          - [mLab](https://mlab.com/)
   - Web Server and Web Application Server
     - [Apache HTTPd](https://httpd.apache.org/)
     - [Apache Tomcat](http://tomcat.apache.org/)
