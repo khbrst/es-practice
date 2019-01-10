@@ -242,9 +242,12 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [Docker](https://www.docker.com/)
       - [Vagrant](https://www.vagrantup.com/)
     - Cloud Services
-      - [Amazone Web Services](https://aws.amazon.com/)
-      - [Google Cloud Platform Console](https://console.cloud.google.com/)
+      - [AWS: Amazone Web Services](https://aws.amazon.com/)
+      - [GCP: Google Cloud Platform Console](https://console.cloud.google.com/)
       - [Microsoft Azure](https://azure.microsoft.com/)
+      - [Heroku](https://www.heroku.com/)
+      - [Cloud Foundary](https://www.cloudfoundry.org/)
+      - [PWS: Pivotal Web Services](https://run.pivotal.io/)
       - Database
         - MongoDB
           - [Atlas](https://cloud.mongodb.com)
