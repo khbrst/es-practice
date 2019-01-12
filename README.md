@@ -65,6 +65,8 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
     - [ ] [How to publish N-API package](https://nodejs.org/en/docs/guides/publishing-napi-modules/)
     - [ ] [ABI Stability](https://nodejs.org/en/docs/guides/abi-stability/)
   - [ ] [Node.js API Documentation](https://nodejs.org/api/documentation.html)
+  - [ ] [Express Production Best Practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
+  - [ ] [Express Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 - [ ] Testing framework
   - [x] [Mocha](https://mochajs.org/)
   - [ ] [Jasmine](https://jasmine.github.io/)
@@ -99,7 +101,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [x] [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
 - [ ] Backend framework
   - [ ] [Express](https://expressjs.com/)
-    - [ ] [Express web framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs): [`LocalLibrary` practiced here](https://github.com/khbrst/express-locallibrary-tutorial)
+    - [x] [Express web framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs): [`LocalLibrary` practiced here](https://github.com/khbrst/express-locallibrary-tutorial)
     - [ ] [Express Guide](https://expressjs.com/en/guide/routing.html)
     - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
   - [ ] [Sails.js](https://sailsjs.com/)
@@ -248,6 +250,7 @@ Practice ECMAScript such as JavaScript, TypeScript and etc.
       - [Heroku](https://www.heroku.com/)
       - [Cloud Foundary](https://www.cloudfoundry.org/)
       - [PWS: Pivotal Web Services](https://run.pivotal.io/)
+      - [Digital Ocean](https://www.digitalocean.com/)
       - Database
         - MongoDB
           - [Atlas](https://cloud.mongodb.com)
