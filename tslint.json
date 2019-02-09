@@ -10,7 +10,11 @@
         "max-classes-per-file": false,
         "interface-name": false,
         "no-shadowed-variable": false,
-        "quotemark": false
+        "quotemark": false,
+        "only-arrow-functions": false,
+        "space-before-function-paren": false,
+        "arrow-parens": false,
+        "trailing-comma": false
     },
     "rulesDirectory": []
 }
